@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Generative AI, Quantum Computing, LLM's**
 
-- 💬 Ask me about **Programming, Movies, Philosophies**
+- 💬 Ask me about **Programming, Movies, Philosophies, Books, Physics**
 
 - 📫 How to reach me **prabakar10312@gmail.com**
 
